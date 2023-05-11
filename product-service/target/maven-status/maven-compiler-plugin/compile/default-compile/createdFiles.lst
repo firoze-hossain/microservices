@@ -1,0 +1,10 @@
+com\roze\controller\ProductController.class
+com\roze\dto\ProductRequest.class
+com\roze\ProductServiceApplication.class
+com\roze\dto\ProductRequest$ProductRequestBuilder.class
+com\roze\dto\ProductResponse.class
+com\roze\dto\ProductResponse$ProductResponseBuilder.class
+com\roze\service\ProductService.class
+com\roze\repository\ProductRepository.class
+com\roze\model\Product$ProductBuilder.class
+com\roze\model\Product.class
