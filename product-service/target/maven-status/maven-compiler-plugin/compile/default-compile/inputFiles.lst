@@ -1,7 +1,7 @@
-E:\Project Workspace\Intellij Idea\Idea Test App\microservices-parent\product-service\src\main\java\com\roze\service\ProductService.java
-E:\Project Workspace\Intellij Idea\Idea Test App\microservices-parent\product-service\src\main\java\com\roze\dto\ProductRequest.java
-E:\Project Workspace\Intellij Idea\Idea Test App\microservices-parent\product-service\src\main\java\com\roze\ProductServiceApplication.java
-E:\Project Workspace\Intellij Idea\Idea Test App\microservices-parent\product-service\src\main\java\com\roze\repository\ProductRepository.java
-E:\Project Workspace\Intellij Idea\Idea Test App\microservices-parent\product-service\src\main\java\com\roze\dto\ProductResponse.java
-E:\Project Workspace\Intellij Idea\Idea Test App\microservices-parent\product-service\src\main\java\com\roze\model\Product.java
-E:\Project Workspace\Intellij Idea\Idea Test App\microservices-parent\product-service\src\main\java\com\roze\controller\ProductController.java
+E:\Project Workspace\Intellij Idea\microservices\product-service\src\main\java\com\roze\dto\ProductRequest.java
+E:\Project Workspace\Intellij Idea\microservices\product-service\src\main\java\com\roze\controller\ProductController.java
+E:\Project Workspace\Intellij Idea\microservices\product-service\src\main\java\com\roze\repository\ProductRepository.java
+E:\Project Workspace\Intellij Idea\microservices\product-service\src\main\java\com\roze\model\Product.java
+E:\Project Workspace\Intellij Idea\microservices\product-service\src\main\java\com\roze\service\ProductService.java
+E:\Project Workspace\Intellij Idea\microservices\product-service\src\main\java\com\roze\ProductServiceApplication.java
+E:\Project Workspace\Intellij Idea\microservices\product-service\src\main\java\com\roze\dto\ProductResponse.java

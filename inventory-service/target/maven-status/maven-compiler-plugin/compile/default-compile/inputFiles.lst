@@ -1,6 +1,7 @@
-E:\Project Workspace\Intellij Idea\Idea Test App\microservices-parent\inventory-service\src\main\java\com\roze\service\InventoryService.java
-E:\Project Workspace\Intellij Idea\Idea Test App\microservices-parent\inventory-service\src\main\java\com\roze\model\Inventory.java
-E:\Project Workspace\Intellij Idea\Idea Test App\microservices-parent\inventory-service\src\main\java\com\roze\repository\InventoryRepository.java
-E:\Project Workspace\Intellij Idea\Idea Test App\microservices-parent\inventory-service\src\main\java\com\roze\util\DataLoader.java
-E:\Project Workspace\Intellij Idea\Idea Test App\microservices-parent\inventory-service\src\main\java\com\roze\controller\InventoryController.java
-E:\Project Workspace\Intellij Idea\Idea Test App\microservices-parent\inventory-service\src\main\java\com\roze\InventoryServiceApplication.java
+E:\Project Workspace\Intellij Idea\microservices\inventory-service\src\main\java\com\roze\controller\InventoryController.java
+E:\Project Workspace\Intellij Idea\microservices\inventory-service\src\main\java\com\roze\util\DataLoader.java
+E:\Project Workspace\Intellij Idea\microservices\inventory-service\src\main\java\com\roze\dto\InventoryResponse.java
+E:\Project Workspace\Intellij Idea\microservices\inventory-service\src\main\java\com\roze\model\Inventory.java
+E:\Project Workspace\Intellij Idea\microservices\inventory-service\src\main\java\com\roze\service\InventoryService.java
+E:\Project Workspace\Intellij Idea\microservices\inventory-service\src\main\java\com\roze\InventoryServiceApplication.java
+E:\Project Workspace\Intellij Idea\microservices\inventory-service\src\main\java\com\roze\repository\InventoryRepository.java

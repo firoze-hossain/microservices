@@ -1,5 +1,7 @@
-com\roze\InventoryServiceApplication.class
 com\roze\controller\InventoryController.class
 com\roze\repository\InventoryRepository.class
+com\roze\dto\InventoryResponse$InventoryResponseBuilder.class
 com\roze\model\Inventory.class
 com\roze\service\InventoryService.class
+com\roze\dto\InventoryResponse.class
+com\roze\InventoryServiceApplication.class

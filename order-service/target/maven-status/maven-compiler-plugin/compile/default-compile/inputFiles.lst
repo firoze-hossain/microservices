@@ -1,8 +1,10 @@
-E:\Project Workspace\Intellij Idea\Idea Test App\microservices-parent\order-service\src\main\java\com\roze\dto\OrderLineItemsDto.java
-E:\Project Workspace\Intellij Idea\Idea Test App\microservices-parent\order-service\src\main\java\com\roze\dto\OrderRequest.java
-E:\Project Workspace\Intellij Idea\Idea Test App\microservices-parent\order-service\src\main\java\com\roze\model\OrderLineItems.java
-E:\Project Workspace\Intellij Idea\Idea Test App\microservices-parent\order-service\src\main\java\com\roze\controller\OrderController.java
-E:\Project Workspace\Intellij Idea\Idea Test App\microservices-parent\order-service\src\main\java\com\roze\OrderServiceApplication.java
-E:\Project Workspace\Intellij Idea\Idea Test App\microservices-parent\order-service\src\main\java\com\roze\service\OrderService.java
-E:\Project Workspace\Intellij Idea\Idea Test App\microservices-parent\order-service\src\main\java\com\roze\model\Order.java
-E:\Project Workspace\Intellij Idea\Idea Test App\microservices-parent\order-service\src\main\java\com\roze\repository\OrderRepository.java
+E:\Project Workspace\Intellij Idea\microservices\order-service\src\main\java\com\roze\config\WebClientConfig.java
+E:\Project Workspace\Intellij Idea\microservices\order-service\src\main\java\com\roze\repository\OrderRepository.java
+E:\Project Workspace\Intellij Idea\microservices\order-service\src\main\java\com\roze\dto\OrderLineItemsDto.java
+E:\Project Workspace\Intellij Idea\microservices\order-service\src\main\java\com\roze\model\OrderLineItems.java
+E:\Project Workspace\Intellij Idea\microservices\order-service\src\main\java\com\roze\OrderServiceApplication.java
+E:\Project Workspace\Intellij Idea\microservices\order-service\src\main\java\com\roze\model\Order.java
+E:\Project Workspace\Intellij Idea\microservices\order-service\src\main\java\com\roze\dto\OrderRequest.java
+E:\Project Workspace\Intellij Idea\microservices\order-service\src\main\java\com\roze\dto\InventoryResponse.java
+E:\Project Workspace\Intellij Idea\microservices\order-service\src\main\java\com\roze\service\OrderService.java
+E:\Project Workspace\Intellij Idea\microservices\order-service\src\main\java\com\roze\controller\OrderController.java
