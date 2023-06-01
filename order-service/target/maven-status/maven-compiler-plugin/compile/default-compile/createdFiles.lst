@@ -1,11 +1,12 @@
-com\roze\dto\OrderLineItemsDto.class
 com\roze\dto\InventoryResponse$InventoryResponseBuilder.class
-com\roze\config\WebClientConfig.class
 com\roze\model\Order.class
-com\roze\repository\OrderRepository.class
 com\roze\OrderServiceApplication.class
-com\roze\dto\InventoryResponse.class
 com\roze\model\OrderLineItems.class
-com\roze\controller\OrderController.class
 com\roze\dto\OrderRequest.class
+com\roze\dto\OrderLineItemsDto.class
+com\roze\config\WebClientConfig.class
+com\roze\event\OrderPlacedEvent.class
+com\roze\repository\OrderRepository.class
+com\roze\dto\InventoryResponse.class
+com\roze\controller\OrderController.class
 com\roze\service\OrderService.class
